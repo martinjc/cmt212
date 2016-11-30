@@ -1,0 +1,36 @@
+title: CMT212 Visual Communication and Information Design
+email: chorleymj@cf.ac.uk
+description: > #
+        This website contains course material and resources for CMT212 Visual
+        Communication and Information Design, my Spring semester MSc module in
+        the School of Computer Science & Informatics at Cardiff University.
+
+
+# Grunt handles images and assets.
+exclude: ['img', 'css', 'js', 'fonts',
+          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
+
+# _config.build.yml sets future and show_drafts to false on `grunt build`
+future: true
+show_drafts: true
+
+# Markdown library
+markdown: kramdown
+
+# Site settings
+baseurl: "/cmt212"
+
+# Varibles
+sitename: "CMT212 - Visual Communication and Information Design"
+
+url: "https://martinjc.github.io" # the base hostname & protocol for your site
+twitter_username: martinjc
+github_username:  martinjc
+
+github_repository_url: "martinjc/cmt212.git"
+github_repository_name: cmt212
+
+collections:
+  sessions:
+    permalink: /sessions/:path/
+    output: true
