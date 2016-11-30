@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMT212 Visual Communication and Information Design</title>
+    <description>This website contains course material and resources for CMT212 Visual Communication and Information Design, my Spring semester MSc module in the School of Computer Science &amp; Informatics at Cardiff University.
+</description>
+    <link>https://martinjc.github.io/cmt212/</link>
+    <atom:link href="https://martinjc.github.io/cmt212/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 30 Nov 2016 12:41:11 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Nov 2016 12:41:11 +0000</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+  </channel>
+</rss>
